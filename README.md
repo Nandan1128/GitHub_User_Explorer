@@ -59,8 +59,7 @@ User taps Search
 
 | Search Screen | Profile Screen |
 |---|---|
-| <img width="360" height="700" alt="Screenshot_20260626_112542" src="https://github.com/user-attachments/assets/8a92b94c-b75d-47a0-b89e-6c6379cff03f" /> |
-| <img width="360" height="700" alt="Screenshot_20260626_112605" src="https://github.com/user-attachments/assets/630594a5-b0d0-4090-908c-a0bf0ab36f73" /> |
+| <img width="360" height="700" alt="Screenshot_20260626_112542" src="https://github.com/user-attachments/assets/8a92b94c-b75d-47a0-b89e-6c6379cff03f" /> || <img width="360" height="700" alt="Screenshot_20260626_112605" src="https://github.com/user-attachments/assets/630594a5-b0d0-4090-908c-a0bf0ab36f73" /> |
 
 ## Setup
 
